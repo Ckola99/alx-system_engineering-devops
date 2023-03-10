@@ -1,4 +1,4 @@
-###In this directory, you will find all the scripts I have created for my Shell Basics tasks:
+###In this directory, you will find all the scripts for shell basics.
 
 0-current_working_directory - prints the absolute path name of the current working directory
 
@@ -38,4 +38,4 @@
 
 102-tree - creates the directories welcome/, welcome/to/ and welcome/to/school in the current working directory
 
-103-commas - lists all the files and directories of the current directory, separated by commas (,) - THIS FILE IS CURRENTLY A WORK IN PROGRESS
+103-commas - lists all the files and directories of the current directory, separated by commas (,).
