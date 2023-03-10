@@ -1,4 +1,4 @@
-ALX SE program:
+ALX SE program (shell tasks):
 
 0x00-shell_basics
 
